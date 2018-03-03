@@ -1,0 +1,13 @@
+下载
+http://activemq.apache.org/download-archives.html
+运行
+直接运行 bin/activemq.bat
+web控制台
+http://localhost:8161/admin/
+admin/admin
+开放端口 管理端8161，amqp 5672，tcp 61616
+
+运行demo
+F:\study\activemq\apache-activemq-5.15.3\examples\openwire\swissarmy\src
+
+F:\study\activemq\apache-activemq-5.15.3\examples\openwire\advanced-scenarios
